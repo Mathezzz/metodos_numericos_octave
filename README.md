@@ -1,5 +1,6 @@
 # metodos_numericos_octave
-Implementação de alguns métodos numéricos através do programa Octave
+Implementação de alguns métodos numéricos para encontrar 
+0's de função através do programa Octave
 para um trabalho da universidade
 
 Substitua sua função no espaço function
